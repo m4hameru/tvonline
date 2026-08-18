@@ -31,8 +31,8 @@ https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="GTV.id@SD" group-title="Nasional" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_GTV-180x180_2025_11_06_13_07_56.jpg",GTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/rcti_pro/index.drm?id=3
 https://gtv-linier.rctiplus.id/gtv-sdi.m3u8?hdnts=exp=1785787266~hmac=3eef05299c1fdb70b629bf7cee084d3995628b490f64dbfedaae05264f2fb768
