@@ -767,28 +767,37 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/782400332c96440598260730a864bc6f/in
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=5a6668f3a5d64338bce13307e5c570be:d0c76237c5ee38e7a420e9c83323023e
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/bde0a6d8d3fd4d77ae5093ad2e6699dc/index.mpd
+
 #EXTINF:-1 tvg-id="CinemaxAsia.sg@SD" group-title="Movies" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_Cinemax-180x180_2025_11_05_13_11_15.jpg",CINEMAX
 https://cdnbal1.indihometv.com/atm/DASH/cinemax/cinemax-avc1_2500000=7-3277707030000000.mpd
+
 #EXTINF:-1 tvg-id="HBOAsia.sg@SD" group-title="Movies" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_HBO-180x180_2025_11_05_11_21_29.jpg",HBO
 https://cdnbal1.indihometv.com/atm/DASH/hbo/hbo-avc1_2500000=7-3277707030000000.mpd
+
 #EXTINF:-1 tvg-id="HBOFamilyAsia.sg@SD" group-title="Movies" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_HBO-Familly-180x180_2025_11_05_11_14_46.jpg",HBO Family
 https://cdnbal1.indihometv.com/atm/DASH/hbofamily/hbofamily-avc1_2500000=7-3277707030000000.mpd
+
 #EXTINF:-1 tvg-id="HBOHitsAsia.sg@SD" group-title="Movies" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_HBO-Hits-180x180_2025_11_05_11_23_20.jpg",HBO Hits
 https://cdnbal1.indihometv.com/atm/DASH/hbohits/hbohits-avc1_2500000=7-3277707030000000.mpd
+
 #EXTINF:-1 tvg-id="HBOSignatureAsia.sg@SD" group-title="Movies" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_HBO-Signature-180x180_2025_11_05_12_57_49.jpg",HBO Signature
 https://cdnbal1.indihometv.com/atm/DASH/hbosignature/hbosignature-avc1_2500000=7-3277707030000000.mpd
-#EXTINF:-1 tvg-id="CinemaxAsia.sg@SD" group-title="Movies" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_Cinemax-180x180_2025_11_05_13_11_15.jpg",CINEMAX
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ott.rocket-ott.shop/cubmu/test.php?license=1
-https://cdnjkt913.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cdbfc4a1934bf/manifest.mpd
+
+#EXTINF:-1 tvg-id="CinemaxAsia.sg@SD" group-title="Movies" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_Cinemax-180x180_2025_11_05_13_11_15.jpg",CINEMAX Thai
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f48caba466394e93b50780f21798787a:9a074a10db4342e7937076b3e52f6029
+https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/107/107.mpd
+
 #EXTINF:-1 tvg-id="HBOAsia.sg@SD" group-title="Movies" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_HBO-180x180_2025_11_05_11_21_29.jpg",HBO
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ott.rocket-ott.shop/cubmu/test.php?license=1
 https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6856b6088c3016b87d64b970b53/manifest.mpd
+
 #EXTINF:-1 tvg-id="HBOFamilyAsia.sg@SD" group-title="Movies" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_HBO-Familly-180x180_2025_11_05_11_14_46.jpg",HBO Family
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ott.rocket-ott.shop/cubmu/test.php?license=1
-https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d055927fe37a4/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=07b138f30ad3441ca5a2f476e550af25:826ee4deef4b45cfafd5f79a591b15c6
+https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/106/106.mpd
+
 #EXTINF:-1 tvg-id="HBOHitsAsia.sg@SD" group-title="Movies" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_HBO-Hits-180x180_2025_11_05_11_23_20.jpg",HBO Hits
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ott.rocket-ott.shop/cubmu/test.php?license=1
